@@ -1,0 +1,8 @@
+.env/
+.venv/
+venv/
+.vscode/
+.env
+__pycache__/
+*.rar
+apuntes.txt
